@@ -1,0 +1,32 @@
+[
+  {
+    "Name": "Vilnius",
+    "Taxes": [
+      {
+        "Schedule": 0,
+        "StartPeriod": "2019-06-28",
+        "Value": 0.1
+      },
+      {
+        "Schedule": 1,
+        "StartPeriod": "2019-06-24",
+        "Value": 0.5
+      }
+    ]
+  },
+  {
+    "Name": "Kaunas",
+    "Taxes": [
+      {
+        "Schedule": 0,
+        "StartPeriod": "2019-06-28",
+        "Value": 0.3
+      },
+      {
+        "Schedule": 2,
+        "StartPeriod": "2019-06-01",
+        "Value": 0.5
+      }
+    ]
+  }
+]
